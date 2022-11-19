@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="hint">Tap On Button to Play</string>
+</resources>
